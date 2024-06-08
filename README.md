@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/behvaioral-repo-logo.png" width="350" height="200">
-</p>
 
 Tips and resources to prepare for Behavioral interviews.
 
